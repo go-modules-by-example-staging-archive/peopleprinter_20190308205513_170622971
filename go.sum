@@ -1,2 +1,4 @@
 github.com/go-modules-by-example-staging/goinfo v1.0.0 h1:/K2ZjCpSQEcKSzzdrUVvnvO9o+hdLEzIKLcWgjXhfZM=
 github.com/go-modules-by-example-staging/goinfo v1.0.0/go.mod h1:RKt9au0LIh5cYWdeaL0lKY2qCDyPEoA7qLqTlr0jxjE=
+github.com/go-modules-by-example-staging/goinfo/v2 v2.0.0 h1:pI4v2P/cjRO+g8FABSvP4claUFwbhYLpxqtEjg2kavE=
+github.com/go-modules-by-example-staging/goinfo/v2 v2.0.0/go.mod h1:jqsknaIn3GE2Qqvn556Vc+GEkJJ4JyUq4Y3oNq/MEdw=
